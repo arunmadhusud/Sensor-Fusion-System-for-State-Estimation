@@ -42,6 +42,8 @@ Use UART1 to send ```UBX-RXM-RAWX```, ```UBX-RXM-SFRBX``` and ```UBX-PVT``` mess
 
 Message rate in ```Configure-RATE``` may also be set to 10Hz.
 
+Refer to RTK_GPS.pdf for details on how to configure your device.
+
 ## Acknowledgement
 
 We thank the authors of GVINS, ORB-SLAM3, NTRIP-ROS, ublox_driver for their excellent packages!
